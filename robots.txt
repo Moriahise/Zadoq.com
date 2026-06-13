@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zadoq.com/sitemap.xml
+Sitemap: https://moriahise.github.io/Zadoq.com/sitemap.xml
